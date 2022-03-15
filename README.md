@@ -9,3 +9,4 @@
 - Hello soy mr3dh00d desde mi desktop
 - unoriginal es por algo xd
 - La vida es una lenteja
+- Soy Gamanator haciendo un commit a la rama dev
